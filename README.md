@@ -4,7 +4,7 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Hudan Suleyman Ali</h1>
+            <h1> Hodan Suleyman Ali</h1>
             <h2> ID: 0041</h2>
             <table border="25">
                 <tr>
