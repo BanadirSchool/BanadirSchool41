@@ -16,8 +16,8 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td>Lama Hayo 
-                        <td> Z
+                    <td>40
+                        <td> F
                         <td> COMPUTER</td>
                     </td>
            
